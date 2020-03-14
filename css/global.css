@@ -355,7 +355,7 @@ pre {
 
 /* Pasha styles – Brand-overrides, can split these out */
 :root {
-  --accent-color: #9368af;
+  --accent-color: #5f337c;
   --headline-color: var(--accent-color);
   --logo-image: url("https://storage.googleapis.com/stripe-sample-images/logo-pasha.svg");
 }
